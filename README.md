@@ -1,6 +1,6 @@
-# Jira-Ecommerce-Web-Testing
+Jira-Ecommerce-Web-Testing
 End-to-end QA testing project using Jira Scrum methodology (E-commerce Web Application)
- E-commerce Web Testing – Jira Scrum Project
+E-commerce Web Testing – Jira Scrum Project
 
  Overview
 This project demonstrates end-to-end QA project management using Jira (Company-Managed Scrum Template) for an E-commerce Web Application.  
@@ -49,7 +49,7 @@ Active Sprint Board
 
 
  Reference Files
-- [Ecommerce_QA_Jira_Project.xlsx](./Ecommerce_QA_Jira_Project.xlsx) – includes Epics, Stories, and Subtasks reference  
+- [Ecommerce_QA_Jira_Project.xlsx](https://github.com/Nyc20/Jira-Ecommerce-Web-Testing/blob/main/Ecommerce_QA_Jira_Project.xlsx) – includes Epics, Stories, and Subtasks reference  
 
  Skills Demonstrated
 - Jira Software (Company-Managed Scrum)
@@ -64,5 +64,5 @@ Author
 Charu Singh  
 QA Tester | Data Analyst Aspirant
 
-📧 [your.email@example.com]  
+📧 Charusingh1563@gmail.com 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/charu20/)
