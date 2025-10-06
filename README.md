@@ -45,10 +45,7 @@ Jira Board Link
 
  Screenshots
 Active Sprint Board  
-[Sprint Board](./screenshots/sprint_board_active.png)
-
-Issue Example  
-[Issue Example](./screenshots/issue_example.png)
+[Sprint Board](https://github.com/Nyc20/Jira-Ecommerce-Web-Testing/blob/main/Active%20Sprint%20Board.pdf)
 
 
  Reference Files
